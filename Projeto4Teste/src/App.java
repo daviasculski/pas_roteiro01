@@ -12,5 +12,7 @@ public class App {
         System.out.println(p.toString());
         System.out.println("Categoria: " + p.classifica());
         s.close();
+
+        //BUG RESOLVIDO
     }
 }
