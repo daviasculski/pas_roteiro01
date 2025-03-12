@@ -3,7 +3,7 @@ public class Professor {
     //Alteração feita na branch ALTERACAO
     private String nome;
     private int anosExperiencia;
-
+    
     public Professor(String nome, int anosExperiencia) {
         this.nome = nome;
         this.anosExperiencia = anosExperiencia;
